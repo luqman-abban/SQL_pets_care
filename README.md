@@ -4,8 +4,11 @@ This repository contains a collection of SQL queries designed to analyze a datas
 **Data Files**
 
 PetOwners.csv: Contains information about pet owners.
+
 Pets.csv: Contains information about pets.
+
 ProceduresDetails.csv: Contains detailed information about various procedures.
+
 ProceduresHistory.csv: Contains a history of procedures performed on pets.
 
 **SQL Queries**
